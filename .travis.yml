@@ -4,6 +4,7 @@ install:
   # Get dependencies
   - pip install -r requirements.txt
   # Set up to run jupyter notebooks:
+  - pip install jupyter_client
   - pip install nbconvert
 
 script:

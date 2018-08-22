@@ -3,7 +3,9 @@
 <iframe src="https://calendar.google.com/calendar/embed?src=a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
 </iframe>
 
-The ical address of the public Cosmology Meetings calendar above is [https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics](https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics)
+Following: the ical address of the public Cosmology Meetings Google calendar above is [https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics](https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics) 
+
+**If you know of a meeting that should be on this calendar, please [post an issue here](https://github.com/LSSTDESC/CosmologyMeetings/issues/new?body=@drphilmarshall&title=New%20Meeting%3A%20<insert%20title%20here>).**
 
 # Event List
 
@@ -11,4 +13,4 @@ This is under development - the idea is to scrape the calendar to make an automa
 
 # About Cosmology Meetings
 
-This is an experimental project: to help out (eg with maintaining the Google calendar), please contact [Phil Marshall](pjm@stanford.edu) or [open a GitHub issue](https://github.com/LSSTDESC/CosmologyMeetings/issues). This website's URL is https://lsstdesc.github.io/CosmologyMeetings/ and the repo supporting it can be found at https://github.com/LSSTDESC/CosmologyMeetings.
+This is an experimental project: to help out (eg with maintaining the Google calendar), please contact [Phil Marshall](pjm@stanford.edu) or [open a GitHub issue](https://github.com/LSSTDESC/CosmologyMeetings/issues). This website's URL is [https://lsstdesc.github.io/CosmologyMeetings/](https://lsstdesc.github.io/CosmologyMeetings/) and the repo supporting it can be found at [https://github.com/LSSTDESC/CosmologyMeetings](https://github.com/LSSTDESC/CosmologyMeetings).

@@ -1,6 +1,6 @@
 # Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com&color=%23691426&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&showPrint=0&height=600&wkst=2&bgcolor=%23ffffff&src=a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com&color=%23691426&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no">
 </iframe>
 
 Following: the ical address of the public Cosmology Meetings Google calendar above is [https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics](https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics) 

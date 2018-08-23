@@ -13,7 +13,7 @@ Good sources of information regarding upcoming meetings include:
 
 # [Event List](https://github.com/LSSTDESC/CosmologyMeetings/blob/auto/EVENTS.md)
 
-The time-ordered and hyper-linked event list linked to above is scraped daily from the calendar, using the notebook [here](https://github.com/LSSTDESC/CosmologyMeetings/blob/master/MakeEventList.ipynb) and the travis-ci configuration [here](https://github.com/LSSTDESC/CosmologyMeetings/blob/master/.travis.yml). Issues and pull requests welcome on the repo [here](https://github.com/LSSTDESC/CosmologyMeetings). 
+The time-ordered and hyper-linked event list linked to above is automatically generated from the calendar on a daily basis, using the notebook [here](https://github.com/LSSTDESC/CosmologyMeetings/blob/master/MakeEventList.ipynb) and the travis-ci configuration [here](https://github.com/LSSTDESC/CosmologyMeetings/blob/master/.travis.yml). The events list itself is not to be edited: the calendar is the primary source. Issues and pull requests regarding the way the event list is made are welcome on the repo [here](https://github.com/LSSTDESC/CosmologyMeetings). 
 
 # About Cosmology Meetings
 

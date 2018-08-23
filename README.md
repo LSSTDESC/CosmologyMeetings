@@ -7,9 +7,11 @@ Following: the ical address of the public Cosmology Meetings Google calendar abo
 
 **If you know of a meeting that should be on this calendar, please [post an issue here](https://github.com/LSSTDESC/CosmologyMeetings/issues/new?body=@drphilmarshall&title=New%20Meeting%3A%20<insert%20title%20here>).**
 
-# Event List
+> Good sources of information regarding upcoming meetings include: [the CADC astronomy meetings page](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/index.html).
 
-This is under development - the idea is to scrape the calendar to make an automatically-updated, searchable, time-ordered listing. To let everyone know about an upcoming cosmology meeting, please [open an issue](https://github.com/LSSTDESC/CosmologyMeetings/issues). Good sources of information regarding upcoming meetings include: [the CADC astronomy meetings page](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/index.html).
+# [Event List](https://github.com/LSSTDESC/CosmologyMeetings/blob/auto/EVENTS.md)
+
+This is under development - the idea is to scrape the calendar to make an automatically-updated, searchable, time-ordered listing, visible [here](https://github.com/LSSTDESC/CosmologyMeetings/blob/auto/EVENTS.md) and linked to above. 
 
 # About Cosmology Meetings
 

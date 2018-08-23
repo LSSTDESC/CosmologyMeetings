@@ -10,6 +10,8 @@ Following: the ical address of the public Cosmology Meetings Google calendar abo
 Good sources of information regarding upcoming meetings include: 
 - [the CADC astronomy meetings page](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/index.html).
 - [COMS Conference Management System](https://www.conference-service.com/conferences/gravitation-and-cosmology.html)
+- [INSPIRE conference search](http://inspirehep.net/search?ln=en&cc=Conferences&p=Cosmology&action_search=Search&sf=conferencestartdate&so=d)
+
 
 # [Event List](https://github.com/LSSTDESC/CosmologyMeetings/blob/auto/EVENTS.md)
 

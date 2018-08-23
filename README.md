@@ -7,7 +7,9 @@ Following: the ical address of the public Cosmology Meetings Google calendar abo
 
 **If you know of a meeting that should be on this calendar, please [post an issue here](https://github.com/LSSTDESC/CosmologyMeetings/issues/new?body=@drphilmarshall&title=New%20Meeting%3A%20<insert%20title%20here>).**
 
-> Good sources of information regarding upcoming meetings include: [the CADC astronomy meetings page](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/index.html).
+> Good sources of information regarding upcoming meetings include: 
+> - [the CADC astronomy meetings page](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/index.html).
+> - [COMS Conference Management System](https://www.conference-service.com/conferences/gravitation-and-cosmology.html)
 
 # [Event List](https://github.com/LSSTDESC/CosmologyMeetings/blob/auto/EVENTS.md)
 

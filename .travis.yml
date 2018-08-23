@@ -20,6 +20,6 @@ after_success: |
     git checkout --orphan auto
     git rm -rf .
     git add -f EVENTS.md
-    git -c user.name='travis' -c user.email='travis' commit -m "pushed the latest event list"
+    git -c user.name='travis' -c user.email='travis' commit -m "pushed the latest event list, scraped from the Google calendar"
     git push -q -f https://drphilmarshall:$GITHUB_API_KEY@github.com/LSSTDESC/CosmologyMeetings auto
   fi

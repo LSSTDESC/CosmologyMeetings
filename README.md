@@ -3,7 +3,7 @@
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&showPrint=0&showAgenda=0&height=600&wkst=2&bgcolor=%23FBFAF7&src=a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com&color=%23711616&ctz=America%2FLos_Angeles" style="border:solid 1px #fbfaf7" width="800" height="600" frameborder="0" scrolling="no">
 </iframe>
 
-Following: the ical address of the public Cosmology Meetings Google calendar above is [https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics](https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics)
+Following: the ical address of the public Cosmology Meetings Google calendar above is **[https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics](https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics)**
 
 **If you know of a meeting that should be on this calendar, please [post an issue here](https://github.com/LSSTDESC/CosmologyMeetings/issues/new?body=@drphilmarshall&title=New%20Meeting%3A%20<insert%20title%20here>).**
 

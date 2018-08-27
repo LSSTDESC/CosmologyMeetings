@@ -21,6 +21,6 @@ The time-ordered and hyper-linked event list linked to above is automatically ge
 
 This is an experimental project. To help out with it (eg by helping maintain the Google calendar), please contact [Phil Marshall](pjm@stanford.edu) or [open a GitHub issue](https://github.com/LSSTDESC/CosmologyMeetings/issues). This website's URL is [https://lsstdesc.github.io/CosmologyMeetings/](https://lsstdesc.github.io/CosmologyMeetings/) and the repo supporting it can be found at [https://github.com/LSSTDESC/CosmologyMeetings](https://github.com/LSSTDESC/CosmologyMeetings). 
 
-> Calendar editors: when adding a meeting, please include its URL in the "description" field, and follow the "<Meeting Name>, <Location>" format for the "summary" field. 
+> Calendar editors: when adding a meeting, please include its URL in the "description" field, and follow the "Meeting Name, Location" format for the "summary" field. 
 
 Event list status: [![Build Status](https://travis-ci.org/LSSTDESC/CosmologyMeetings.svg?branch=master)](https://travis-ci.org/LSSTDESC/CosmologyMeetings)

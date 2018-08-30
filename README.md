@@ -7,8 +7,9 @@ Following: the ical address of the public Cosmology Meetings Google calendar abo
 
 **If you know of a meeting that should be on this calendar, please [post an issue here](https://github.com/LSSTDESC/CosmologyMeetings/issues/new?body=@drphilmarshall&title=New%20Meeting%3A%20<insert%20title%20here>).**
 
-Good sources of information regarding upcoming meetings include the following pages. Please note the edit mechanisms: as well as calendaring cosmology meetings in this repo, we should help keep the sources up to date: 
+Good sources of information regarding upcoming meetings include the following pages. Please note the edit mechanisms: as well as calendaring cosmology meetings in this repo, we should help keep the sources up to date by advertizing our meetings on them: 
 - [The CADC astronomy meetings page](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/index.html), submit new meetings [here](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/editMeetings.html?action=new&title=Submit%20New%20Meeting).
+- [The CosmoCoffee Conferences and Meetings board](https://cosmocoffee.info/viewforum.php?f=9&sid=9012d22ae1c9763186260cbf4daba5d8)
 - [COMS Conference Management System](https://www.conference-service.com/conferences/gravitation-and-cosmology.html), submit new meetings [here](https://www.conference-service.com/auxiliary/submit.html).
 - [INSPIRE conference search](http://inspirehep.net/search?ln=en&cc=Conferences&p=Cosmology&action_search=Search&sf=conferencestartdate&so=d), submit new meetings [here](http://inspirehep.net/submit?doctype=CONFSUBMIT&act=SBI&comboCONFSUBMIT=CONF)
 

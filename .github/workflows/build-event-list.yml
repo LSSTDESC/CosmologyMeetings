@@ -1,0 +1,53 @@
+# This workflow will install Python dependencies, run the Jupyter notebook to make the Event List, 
+# and then push it to the repo in an orphan branch. 
+
+name: Event List
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - uses: actions/checkout@v3
+
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install jupyter_client
+        pip install ipykernel
+        pip install nbconvert
+
+    - name: Run notebook
+      run: |
+        jupyter nbconvert --ExecutePreprocessor.kernel_name=python --ExecutePreprocessor.timeout=600 --to notebook --execute MakeEventList.ipynb
+
+    - name: Upload Event List
+      run: |
+        if: ${{ github.event_name == 'push' }}
+        env:
+          LTD_PASSWORD: ${{ secrets.LTD_PASSWORD }}
+          LTD_USERNAME: ${{ secrets.LTD_USERNAME }}
+        run: |
+          git checkout --orphan auto
+          git rm -rf .
+          git add -f EVENTS.md
+          git commit -m "pushed the latest event list, scraped from the Google calendar"
+          git push
+

@@ -5,7 +5,7 @@
 
 Following: the ical address of the public Cosmology Meetings Google calendar above is **[https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics](https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics)**
 
-**If you know of a meeting that should be on this calendar, please [post an issue here](https://github.com/LSSTDESC/CosmologyMeetings/issues/new?body=@drphilmarshall&title=New%20Meeting%3A%20<insert%20title%20here>).**
+**If you know of a meeting that should be on this calendar, please [post an issue here](https://github.com/LSSTDESC/CosmologyMeetings/issues/new?body=@drphilmarshall&title=New%20Meeting%3A%20<insert%20title%20here>), including the meeting name, dates, location, and URL.**
 
 Good sources of information regarding upcoming meetings include the following pages. Please note the edit mechanisms: as well as calendaring cosmology meetings in this repo, we should help keep the sources up to date by advertizing our meetings on them: 
 - [The CADC astronomy meetings page](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/index.html), submit new meetings [here](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/editMeetings.html?action=new&title=Submit%20New%20Meeting).
@@ -20,8 +20,12 @@ The time-ordered and hyper-linked event list linked to above is automatically ge
 
 # About Cosmology Meetings
 
-This is an experimental project. To help out with it (eg by helping maintain the Google calendar), please contact [Phil Marshall](pjm@stanford.edu) or [open a GitHub issue](https://github.com/LSSTDESC/CosmologyMeetings/issues). This website's URL is [https://lsstdesc.github.io/CosmologyMeetings/](https://lsstdesc.github.io/CosmologyMeetings/) and the repo supporting it can be found at [https://github.com/LSSTDESC/CosmologyMeetings](https://github.com/LSSTDESC/CosmologyMeetings). 
+This is an experimental project. To help out with it (eg by helping maintain the Google calendar), please contact [Phil Marshall](pjm@slac.stanford.edu) or [open a GitHub issue](https://github.com/LSSTDESC/CosmologyMeetings/issues). This website's URL is [https://lsstdesc.github.io/CosmologyMeetings/](https://lsstdesc.github.io/CosmologyMeetings/) and the repo supporting it can be found at [https://github.com/LSSTDESC/CosmologyMeetings](https://github.com/LSSTDESC/CosmologyMeetings). 
 
-> Calendar editors: when adding a meeting, please include its URL in the "description" field, and follow the "Meeting Name, Location" format for the "summary" field. 
+> Workflow for Calendar Editors: 
+> 1. Look for an [open issue](https://github.com/LSSTDESC/CosmologyMeetings/issues) and see if it contains the information needed to make a calendar event (name, dates, location, URL). Query the issue submitter for more details if needed.  
+> 2. Open Google Calendar and, if you haven't already, import the Cosmology Meetings calendar using its [ICS URL](https://calendar.google.com/calendar/ical/a6aumk8bjbhhb9aaa6hg60f19c%40group.calendar.google.com/public/basic.ics).  
+> 3. Add an event to the Cosmology Meetings calendar. Please include its URL in the "description" field, and follow the "Meeting Name, Location" format for the "summary" field.
+> 4. Close the issue, thanking the submitter.
 
 Event list status: [![Build Status](https://travis-ci.org/LSSTDESC/CosmologyMeetings.svg?branch=master)](https://travis-ci.org/LSSTDESC/CosmologyMeetings)
